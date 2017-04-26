@@ -19,5 +19,6 @@
     <orderEntry type="library" name="org.elasticsearch.client:transport:5.2.2" level="application" />
     <orderEntry type="library" name="log4j-api-2.8.1" level="application" />
     <orderEntry type="library" name="log4j-core-2.8.1" level="application" />
+    <orderEntry type="library" name="elasticsearch-5.2.2" level="project" />
   </component>
 </module>
